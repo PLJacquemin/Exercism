@@ -1,3 +1,4 @@
 */.exercism
 */README*
 */__pycache__
+.DS_Store
